@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/coding.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Live Weathe app with api 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "i have created a live weather forecasting website that i made using weather api ",
+    url: "https://github.com/coderAdityasen/Weather-App",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Todo APP with additional functionality",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "i have made a simple todo app with react using and reduc tool tool kit also i have made this project with the help of my conding instructor hitesh choudhry sir .",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "E-commerce website with using MERN stack ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "i have created a full stack project with simple react and also made routing functionality with single page load functionality",
+    url: "https://github.com/coderAdityasen/basic-e-commerce-app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Image gallary react app with api",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "i have made a proejct using react through which i use 3rd party api  ",
+    url: "https://github.com/coderAdityasen/Gallary-react-app",
   },
 ];
 
